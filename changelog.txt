@@ -78,6 +78,7 @@ misc:
 -removed radar (useless)
 -removed zoom (useless)
 -removed debug mode (useless)
+-added chat spammer
 
 b14
 framework:
@@ -98,6 +99,9 @@ menu:
 b11
 framework
 -added anti-leak system
+
+misc:
+-added clantag changer
 
 
 
