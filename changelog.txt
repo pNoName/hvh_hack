@@ -9,3 +9,6 @@ b20:
 -improved esp info
 -optimized rage aimbot
 -new anti-leak system
+-added damage indicators
+-fixed convars
+-updated offsets
