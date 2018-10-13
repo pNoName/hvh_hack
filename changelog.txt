@@ -82,7 +82,7 @@ visuals:
 misc:
 -removed radar (useless)
 -removed zoom (useless)
--removed debug mode (useless)
+-removed debug multipoints (useless)
 -added chat spammer
 
 b14
