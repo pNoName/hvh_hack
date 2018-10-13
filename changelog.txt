@@ -1,14 +1,126 @@
-b20:
+b20
+ragebot:
 -added baim if
 	-in air
 	-standing
 	-moving
 	-fakewalking
+-optimized rage aimbot
+-improved hitboxes
 
+visuals:
 -fixed esp bugs
 -improved esp info
--optimized rage aimbot
--new anti-leak system
+-changed weapon esp font to smallest pixel-7
 -added damage indicators
+
+framework:
+-new anti-leak system
 -fixed convars
 -updated offsets
+
+menu:
+-added corretions tab in accuracy in ragebot
+
+b19
+ragebot:
+-fixed smart resolver
+
+visuals:
+-changed esp font to tahoma
+-improved sniper crosshair
+
+misc:
+-added autodefuse
+
+menu:
+-menu optimization
+-changed watermark
+-changed ragebot tab
+
+b18
+visuals:
+-added more hitsounds & killsounds
+
+framework:
+-fixed bugs
+
+b17
+ragebot:
+-updated resolvers
+-new backtracking
+-new antiaims
+
+misc:
+-added new animated clantag "pnonameh00k"
+
+menu:
+-added menu background
+-changed slider size
+
+b16
+ragebot:
+-fixed freestanding antiaim
+-added autostop speedlimit
+
+menu:
+-new menu font
+-changed menu size
+
+framework:
+-fixed bugs
+
+b15
+visuals:
+-fixed nosmoke
+
+misc:
+-removed radar (useless)
+-removed zoom (useless)
+-removed debug mode (useless)
+
+b14
+framework:
+-fixed bugs
+
+b13
+framework:
+-updated offsets
+
+b12 beta
+ragebot:
+-improved hitscans
+
+b12 alpha
+menu:
+-menu optimization
+
+b11
+framework
+-added anti-leak system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
