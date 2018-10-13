@@ -1,0 +1,11 @@
+b20:
+-added baim if
+	-in air
+	-standing
+	-moving
+	-fakewalking
+
+-fixed esp bugs
+-improved esp info
+-optimized rage aimbot
+-new anti-leak system
