@@ -1,12 +1,15 @@
 b20
 ragebot:
--added baim if
+-added baim if:
 	-in air
 	-standing
 	-moving
 	-fakewalking
 -optimized rage aimbot
 -improved hitboxes
+-added overrides:
+	-override head
+	-override body
 
 visuals:
 -fixed esp bugs
@@ -25,6 +28,7 @@ menu:
 b19
 ragebot:
 -fixed smart resolver
+-improved multipoints
 
 visuals:
 -changed esp font to tahoma
@@ -50,6 +54,7 @@ ragebot:
 -updated resolvers
 -new backtracking
 -new antiaims
+-new multipoints
 
 misc:
 -added new animated clantag "pnonameh00k"
@@ -81,12 +86,21 @@ misc:
 -added chat spammer
 
 b14
+ragebot:
+-improved engine prediction
+
 framework:
 -fixed bugs
 
 b13
 framework:
 -updated offsets
+
+b12
+ragebot:
+-added extrapolation
+-added "distance" aimbot selection
+-added baim on key
 
 b12 beta
 ragebot:
@@ -97,11 +111,22 @@ menu:
 -menu optimization
 
 b11
-framework
+framework:
 -added anti-leak system
 
 misc:
 -added clantag changer
+
+b10
+framework:
+-fixed bugs
+
+b9
+ragebot:
+-added engine prediction
+
+b9 beta
+-cheat release
 
 
 
