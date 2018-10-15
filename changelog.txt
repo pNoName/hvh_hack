@@ -7,7 +7,6 @@ visuals:
 
 framework:
 -fixed bugs
--added "is_developer" feature
 
 b20
 ragebot:
