@@ -1,9 +1,16 @@
 b2
+ragebot:
+-fixed head pointscale
+
+misc:
+-added new autobuy
+
 menu:
--added pWatermark
+-added watermark
 
 framework:
 -fixed bugs
+-improved user check
 
 b1
 ragebot:
@@ -13,6 +20,9 @@ ragebot:
 
 menu:
 -menu optimization
+
+framework:
+-added user check
 
 -----------------------------------------------------------------<
 
@@ -34,6 +44,7 @@ visuals:
 
 framework:
 -fixed bugs
+-added user check
 
 b20
 ragebot:
