@@ -1,4 +1,20 @@
+b1
+ragebot:
+-added overrides:
+	-head
+	-body
+-added head pointscale
+-fixed quickstop
+
+menu:
+-menu optimization
+
+-----------------------------------------------------------------<
+
+all new changelogs are now about new cheat - pnonameh00k v4 beta
 new cheat release - pnonameh00k v4 beta
+
+-----------------------------------------------------------------<
 
 b22
 framework:
