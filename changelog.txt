@@ -1,8 +1,13 @@
+b2
+menu:
+-added pWatermark
+
+framework:
+-fixed bugs
+
 b1
 ragebot:
--added overrides:
-	-head
-	-body
+-added body-aim on key
 -added head pointscale
 -fixed quickstop
 
@@ -12,7 +17,7 @@ menu:
 -----------------------------------------------------------------<
 
 all new changelogs are now about new cheat - pnonameh00k v4 beta
-new cheat release - pnonameh00k v4 beta
+10/18/2018 - new cheat release - pnonameh00k v4 beta
 
 -----------------------------------------------------------------<
 
