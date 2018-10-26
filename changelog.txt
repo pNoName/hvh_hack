@@ -1,5 +1,6 @@
 b3
 ragebot:
+-added new fakelag option "with zeus"
 -added pointscales
 	-head
 	-chest
