@@ -1,3 +1,20 @@
+b3
+ragebot:
+-added pointscales
+	-head
+	-chest
+	-stomach
+	-pelvis
+	-arms
+	-legs
+
+visuals:
+-changed esp font
+
+framework:
+-improved security & anti-leak system
+-updated offsets
+
 b2
 ragebot:
 -fixed head pointscale
