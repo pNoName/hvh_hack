@@ -1,3 +1,16 @@
+b4
+ragebot:
+-added new pitch option "custom"
+-fixed autozeus
+
+visuals:
+-fixed bugs
+
+framework:
+-improved security
+
+-----------------------------------------------------------------<
+
 b3
 ragebot:
 -added new fakelag option "with zeus"
@@ -16,6 +29,8 @@ framework:
 -improved security & anti-leak system
 -updated offsets
 
+-----------------------------------------------------------------<
+
 b2
 ragebot:
 -fixed head pointscale
@@ -29,6 +44,8 @@ menu:
 framework:
 -fixed bugs
 -improved user check
+
+-----------------------------------------------------------------<
 
 b1
 ragebot:
