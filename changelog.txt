@@ -1,3 +1,15 @@
+b6
+framework:
+-fixed bugs
+
+b5
+misc:
+-added custom clantag
+-added animated custom clantag
+
+framework:
+-improved security
+
 b4
 ragebot:
 -added new pitch option "custom"
