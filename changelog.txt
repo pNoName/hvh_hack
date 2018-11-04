@@ -1,3 +1,17 @@
+Ins0mnia - released new cheat (legit gameplay only)
+
+b7 (v4 beta)
+ragebot:
+-improved lby breaker
+-improved anti-aims
+
+misc:
+-fixed clantags
+
+framework:
+-improved security & anti-leak system
+-fixed bugs
+
 b6
 framework:
 -fixed bugs
