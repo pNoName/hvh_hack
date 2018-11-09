@@ -1,3 +1,7 @@
+b8
+framework:
+-fixed the cheat for latest csgo update
+
 Ins0mnia - released new cheat (legit gameplay only)
 
 b7 (v4 beta)
